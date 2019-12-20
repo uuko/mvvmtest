@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AhMyth-Android-RAT" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AhMyth-Android-RAT/MVVM/MVVM" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MVVM" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MVVMtest/ITBon2018" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MyMail" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Todolist" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android_pro/BroadcastBestPractice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android_pro/notification" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bootstap_project/www/skykid_api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bootstap_project/www/skykid_laravel" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/photowall" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/photowall/photowall" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/photowall1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/photowall1/photowall" vcs="Git" />
+  </component>
+</project>
